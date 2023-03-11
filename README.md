@@ -1,7 +1,5 @@
 # Bee Degree - Primary 1 [🔗](https://play.google.com/store/apps/details?id=com.learningrockets.bee_degree)
 
-![main-logo](./assets/main-logo-2.png)
-
 ## Credits
 
 Application owned by [Learning Rockets](https://web.facebook.com/BeeDegree2).
